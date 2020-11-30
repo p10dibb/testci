@@ -7,6 +7,6 @@ test("test 1",()=>{
 })
 
 test("test 2",()=>{
-    expect(main.Sum(1,2)).toBe(3)
+    expect(main.Sum(1,2)).toBe(5)
 })
 //
