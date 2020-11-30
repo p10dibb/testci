@@ -32,4 +32,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           npm install
-          sudo jest
+          npm test
